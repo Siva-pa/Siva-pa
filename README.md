@@ -43,8 +43,8 @@ class AISoftwareEngineer:
             "specialization": ["Generative AI", "RAG Systems", "LLM Applications"],
             "automation": ["n8n Workflows", "Python Automation", "Process Optimization"],
             "backend": ["FastAPI", "Python", "SQL"],
-            "frontend": ["Streamlit", "Power BI", "React"],
-            "mlops": ["MLOps", "MLflow", "Prefect"]
+            "frontend": ["Streamlit", "Power BI"],
+            "mlops": ["MLOps", "MLflow"]
         }
     
     def currently_working_on(self):
@@ -65,8 +65,6 @@ class AISoftwareEngineer:
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -87,23 +85,17 @@ class AISoftwareEngineer:
 
 ### 🌐 Web & Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🔄 Automation & Workflows
 ![n8n](https://img.shields.io/badge/n8n-DF0000?style=flat-square&logo=n8n&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-1A6DFF?style=flat-square&logo=prefect&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0193E3?style=flat-square&logo=mlflow&logoColor=white)
 
 ### 💾 Databases & Data Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🛠️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -282,7 +274,7 @@ Advanced SQL analytics for YouTube creator economy insights.
 - [Acko Drive Web Scrapping](https://github.com/Siva-pa/Acko-Drive-Web-Scrapping) - Web automation & scraping
 
 ### 💻 General Development & Utilities
-- [Project (TypeScript)](https://github.com/Siva-pa/project) - Frontend development
+- [Project](https://github.com/Siva-pa/project) - Development project
 - [Port Folio](https://github.com/Siva-pa/port_folio) - Portfolio application
 - [Sign Up Form](https://github.com/Siva-pa/Sign-Up-Form) - Web form development
 - [ATM Application](https://github.com/Siva-pa/ATM-Application) - Python application
@@ -295,15 +287,9 @@ Advanced SQL analytics for YouTube creator economy insights.
 
 <div align="center">
 
-### 📈 GitHub Overview
+### 📈 GitHub Overview & Top Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva-pa&show_icons=true&theme=dark&bg_color=0F172A&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&border_color=2563EB&border_radius=10)
-
-</div>
-
-<div align="center">
-
-### 🔝 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=dark&bg_color=0F172A&title_color=2563EB&text_color=F8FAFC&border_color=2563EB&border_radius=10&hide=html,css)
 
@@ -319,16 +305,16 @@ Advanced SQL analytics for YouTube creator economy insights.
 
 <div align="center">
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Achievements & Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=dark&no-frame=true&column=4&margin-w=5&margin-h=5&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=dark&no-frame=true&column=3&margin-w=5&margin-h=5&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A)
 
 </div>
 
 ---
 
 <!-- 📚 Learning Hub -->
-## 📚 Latest Articles & Learning Resources
+## ���� Latest Articles & Learning Resources
 
 I share my knowledge and insights through technical articles on Medium. Follow my work to stay updated:
 
@@ -372,7 +358,7 @@ Explore my comprehensive project portfolio and professional work:
 ├── 🔀 Multimodal AI Systems
 ├── ⚙️ Production MLOps & ML Infrastructure
 ├── 🌐 Distributed Systems for ML
-├── ☁️ Cloud-Native AI Applications
+├── ☁️ Scalable AI Application Development
 ├── 🏢 Enterprise AI Integration
 └── 📈 Scalable System Design
 ```
@@ -426,7 +412,7 @@ I'm enthusiastic about:
 
 ✅ **Full-Stack Expertise** - Backend, Frontend, Data, and ML integration
 
-✅ **Cloud & DevOps Knowledge** - AWS, Docker, and deployment strategies
+✅ **Machine Learning Excellence** - TensorFlow, PyTorch, Scikit-learn, and advanced modeling
 
 ---
 
