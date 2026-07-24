@@ -1,44 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Siva-pa/Siva-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Siva%20Kishore%20Pasupuleti&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- 📌 About Me Section -->
+## 🎯 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![Siva-pa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva-pa&show_icons=true&theme=radical)
-
----
-
-## 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 **AI Engineer & Data Scientist** working across Python, SQL, and Machine Learning
+- 🌱 Building intelligent systems using Generative AI, RAG systems, and LLM applications
+- 📊 Focused on creating dashboards, ML models, and automation that turn raw data into actionable insights
+- 🤖 Specializing in Generative AI, n8n automation, and enterprise-grade AI solutions
+- ✍️ Sharing my learnings on [Medium](https://medium.com/@sivakishore.pasupuleti)
 
 ---
 
-## 🔥 Contribution Activity
+## 🎯 About Me (Python Class)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siva-pa&theme=radical)
-
----
-
-**Made with ❤️ by Siva-pa**
+```python
+class AISoftwareEngineer:
+    def __init__(self):
+        self.name = "Siva Kishore Pasupuleti"
+        self.role = "AI Engineer | Data Scientist | Python Specialist"
+        self.location = "India"
+        self.passion = "Building intelligent systems using AI/ML"
+        
+    def expertise(self):
+        return {
+            "core": ["Machine Learning", "Deep Learning", "Data Science"],
+            "specialization": ["Generative AI", "RAG Systems", "LLM Applications"],
+            "automation": ["n8n Workflows", "Python Automation", "Process Optimization"],
+            "backend": ["FastAPI", "Python", "SQL"],
+            "frontend": ["Streamlit", "Power BI"],
+            "mlops": ["MLOps", "MLflow"]
+        }
+    
+    def currently_working_on(self):
+        return "GenAI solutions, RAG systems, and intelligent automation"
+    
+    def learning(self):
+        return "Advanced LLM architectures and enterprise AI systems"
+    
+    def open_for(self):
+        return ["Full-time roles", "AI/ML projects", "Open Source"]
