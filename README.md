@@ -285,41 +285,27 @@ Advanced SQL analytics for YouTube creator economy insights.
 <!-- 📊 GitHub Analytics & Statistics -->
 ## 📊 GitHub Analytics & Statistics
 
-<div align="center">
-
 ### 📈 GitHub Stats Overview
-<a href="https://github.com/Siva-pa">
-<img src="https://github-readme-stats.vercel.app/api?username=Siva-pa&count_private=true&show_icons=true&theme=dark&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10" width="100%" alt="GitHub Stats" />
-</a>
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva-pa&count_private=true&show_icons=true&theme=dark&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10)
 
-<div align="center">
+---
 
 ### 🔝 Most Used Languages
-<a href="https://github.com/Siva-pa">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=dark&title_color=2563EB&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10" width="100%" alt="Top Languages" />
-</a>
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=dark&title_color=2563EB&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10&hide=html,css)
 
-<div align="center">
+---
 
 ### 🔥 GitHub Contribution Streak
-<a href="https://github.com/Siva-pa">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siva-pa&theme=dark&background=0F172A&stroke=2563EB&ring=06B6D4&fire=FF6B6B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=CBD5E1&dates=CBD5E1&border=2563EB" width="100%" alt="GitHub Streak" />
-</a>
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siva-pa&theme=dark&background=0F172A&stroke=2563EB&ring=06B6D4&fire=FF6B6B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=CBD5E1&dates=CBD5E1&border=2563EB)
 
-<div align="center">
+---
 
 ### 🏆 GitHub Achievements & Trophies
-<a href="https://github.com/Siva-pa">
-<img src="https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=dark&no-frame=true&column=3&margin-w=15&margin-h=15&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A" width="100%" alt="GitHub Trophies" />
-</a>
 
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=dark&no-frame=true&column=4&margin-w=5&margin-h=5&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A)
 
 ---
 
