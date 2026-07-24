@@ -1,26 +1,6 @@
-<!-- ✨ Animated Header Section ✨ -->
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2563EB&center=true&width=900&lines=Hi%2C+I'm+Siva+Kishore+Pasupuleti+👋;AI+Engineer+%7C+Data+Scientist+%7C+GenAI+Specialist;Building+Intelligent+Systems+with+Python;Automating+the+Future+with+AI;Let's+transform+data+into+insights+🚀)
 
-</div>
-
----
-
-<!-- 🌐 Professional Social Bar -->
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva-pa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakishore-pasupuleti/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://project-pi-rust.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivakishore.pasupuleti)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivakishore.pasupuleti@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Siva-pa&color=2563EB&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/Siva-pa?color=2563EB&style=flat-square&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/Siva-pa?color=22C55E&style=flat-square&label=Total+Stars)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Siva%20Kishore%20Pasupuleti&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -28,6 +8,16 @@
 
 <!-- 📌 About Me Section -->
 ## 🎯 About Me
+
+- 🔭 **AI Engineer & Data Scientist** working across Python, SQL, and Machine Learning
+- 🌱 Building intelligent systems using Generative AI, RAG systems, and LLM applications
+- 📊 Focused on creating dashboards, ML models, and automation that turn raw data into actionable insights
+- 🤖 Specializing in Generative AI, n8n automation, and enterprise-grade AI solutions
+- ✍️ Sharing my learnings on [Medium](https://medium.com/@sivakishore.pasupuleti)
+
+---
+
+## 🎯 About Me (Python Class)
 
 ```python
 class AISoftwareEngineer:
@@ -59,45 +49,76 @@ class AISoftwareEngineer:
 
 ---
 
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/Siva-pa)
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siva-pa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Siva-pa&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔝 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-pa&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 <!-- 🛠️ Technology Stack -->
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🌐 Web & Backend Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔄 Automation & Workflows
-![n8n](https://img.shields.io/badge/n8n-DF0000?style=flat-square&logo=n8n&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0193E3?style=flat-square&logo=mlflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-DF0000?style=for-the-badge&logo=n8n&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0193E3?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### 💾 Databases & Data Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -282,33 +303,6 @@ Advanced SQL analytics for YouTube creator economy insights.
 
 ---
 
-<!-- 📊 GitHub Analytics & Statistics -->
-## 📊 GitHub Analytics & Statistics
-
-### 📈 GitHub Stats Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva-pa&count_private=true&show_icons=true&theme=dark&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10)
-
----
-
-### 🔝 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-pa&layout=compact&theme=dark&title_color=2563EB&text_color=F8FAFC&bg_color=0F172A&border_color=2563EB&border_radius=10&hide=html,css)
-
----
-
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siva-pa&theme=dark&background=0F172A&stroke=2563EB&ring=06B6D4&fire=FF6B6B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=CBD5E1&dates=CBD5E1&border=2563EB)
-
----
-
-### 🏆 GitHub Achievements & Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-pa&theme=dark&no-frame=true&column=4&margin-w=5&margin-h=5&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC&bg_color=0F172A)
-
----
-
 <!-- 📚 Learning Hub -->
 ## 📚 Latest Articles & Learning Resources
 
@@ -373,17 +367,17 @@ I'm enthusiastic about:
 - 💡 **Open Source Contributions** - Contributing to the tech community
 - 🎯 **Knowledge Sharing** - Writing and mentoring
 
-### 🌐 Connect With Me:
+---
 
-<div align="center">
+## 📫 Connect With Me
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva-pa)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakishore-pasupuleti/)
-[![Medium Blog](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivakishore.pasupuleti)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=web&logoColor=white)](https://project-pi-rust.vercel.app/)
-[![Email Me](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivakishore.pasupuleti@gmail.com)
-
-</div>
+<p align="center">
+  <a href="mailto:sivakishore.pasupuleti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sivakishore-pasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@sivakishore.pasupuleti"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://project-pi-rust.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Siva-pa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -471,8 +465,10 @@ If you find my projects valuable or my content helpful, I'd appreciate:
 ---
 
 <!-- Footer Stats -->
-<div align="center">
+<p align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Siva-pa&color=2563EB&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Siva-pa&color=blueviolet&style=flat-square)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer" width="100%"/>
+
+</p>
